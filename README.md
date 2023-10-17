@@ -1,4 +1,4 @@
-#ML_projects
+# ML_projects
 
 This is a repo of small ML projects carried out during my free time.
 
